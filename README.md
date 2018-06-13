@@ -1,2 +1,2 @@
 # Programowanie-wspolbiezne
-Zadania z laboratorium z Programowania Współbieżnego - prowadzący dr Ułasiewicz
+Zadania z laboratorium z Programowania Współbieżnego. Prowadzący: dr inż. Jędrzej Ułasiewicz
